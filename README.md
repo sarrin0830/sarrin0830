@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:6d7eba,100:464cdb&text=KIM%20DONG%20WOO&&desc=sarrin0830&fontColor=ffffff&fontSize=30&descSize=15&fontAlignY=45&descAlignY=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:030c2d,100:534b90&text=KIM%20DONG%20WOO&&desc=sarrin0830&fontColor=ffffff&fontSize=30&descSize=15&fontAlignY=45&descAlignY=70&animation=twinkling)
